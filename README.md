@@ -1,6 +1,8 @@
 ## Hey, I'm Josh Lipman
 
-##H
+I'm passionate about building and scaling meaningful products.
+
+Currently, I'm working in product @Uber
 
 <!--
 **joshualipman123/joshualipman123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
