@@ -1,12 +1,6 @@
 ## Hey, I'm Josh Lipman
 
-I'm passionate about building and scaling meaningful products.
-
-Currently, I'm working in product [@uber](https://www.uber.com/) and researching AI in materials science [@ucla](https://dskoda.com/).
-
-Previously, I founded [Belstad](https://apps.apple.com/us/app/belstad/id6618159376), where we built an autonomous AI journalist.
-
-In my free time, I like climbing rocks, hiking, backpacking, and practising jiu jitsu.
+I'm passionate about building cool stuff in AI/ML
 
 <!--
 **joshualipman123/joshualipman123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
