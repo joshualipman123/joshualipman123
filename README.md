@@ -1,6 +1,6 @@
 ## Hey, I'm Josh Lipman
 
-I'm passionate about building cool stuff in AI/ML
+I'm passionate about meaningful products in AI/ML
 
 <!--
 **joshualipman123/joshualipman123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
